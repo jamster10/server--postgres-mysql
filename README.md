@@ -4,10 +4,15 @@ This is a boilerplate project used for starting new projects!
 
 Includes:
     joi
+    
     knex
+    
     morgan
+    
     winston
+    
     xss
+    
     built for: [ mySQL | POSTGRES ] with pagination
 
 
